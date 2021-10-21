@@ -35,7 +35,7 @@ a{
     justify-content: center;
     align-items: center;
     background-color: #AFB6C9;
-    background-image: linear-gradient(34deg, #5C2C6D 0%, #270580 66%);
+    background-image: linear-gradient(36deg, rgba(198,10,184,1) 0%, rgba(34,16,34,1) 100%)
 }
 
 
