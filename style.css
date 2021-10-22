@@ -10,11 +10,8 @@ body {
     min-height: 100%;
 }
 
-footer {
-    margin-top: auto;
-}
-
 #footer-page {
+    margin-top: auto;
     padding: 10px 0;
     text-align: center;
 }
