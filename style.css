@@ -1,4 +1,4 @@
-/* footer */
+
 html {
     height: 100%;
     min-height: 100%;
@@ -11,6 +11,11 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+#card-product {
+    width: 18rem;
+}
+
+/* footer */
 #footer-page {
     margin-top: auto;
     padding: 10px 0;
