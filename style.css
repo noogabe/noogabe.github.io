@@ -35,7 +35,7 @@ a{
     justify-content: center;
     align-items: center;
     background-color: #AFB6C9;
-    background-image: linear-gradient(36deg, rgba(198,10,184,1) 0%, rgba(34,16,34,1) 65%)
+    background-image: linear-gradient(36deg, rgba(198,10,184,1) 0%, rgba(34,16,34,1) 40%)
 }
 
 
@@ -116,13 +116,3 @@ a{
    font-size: 25px;
 }
 
-
-@media (max-width: 600px) {
-    .profile{
-        width: auto;
-    }
-
-    .icon{
-        opacity: 1;
-    }
-}
