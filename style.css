@@ -1,0 +1,9 @@
+/* footer */
+#footer-page {
+    padding: 10px 0;
+    text-align: center;
+}
+
+#footer-page .container p {
+    padding-bottom: 0;
+}
