@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    
+    font-family: 'Lato', sans-serif;
 }
 
 #footer-page {
