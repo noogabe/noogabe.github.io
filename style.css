@@ -34,7 +34,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    margin: 0 10px;
     background-color: #AFB6C9;
     background-image: linear-gradient(36deg, rgba(198,10,184,1) 0%, rgba(34,16,34,1) 40%)
 }
